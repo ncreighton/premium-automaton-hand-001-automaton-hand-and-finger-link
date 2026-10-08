@@ -1,0 +1,2 @@
+# premium-automaton-hand-001-automaton-hand-and-finger-link
+Stop losing track of your automaton finger linkages in a tangle of sketches and spreadsheets. Finally, a Notion template that maps every pivot, joint, and motion arc so you can iterate without rebuilding from scratch.  This template eliminates the chaos of managing complex linkage geometry by centralizing all dimensions, ranges, and iteration histo
